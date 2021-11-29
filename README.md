@@ -1,1 +1,1 @@
-# Tetris_game
+# Tetris game in Python using pygame
